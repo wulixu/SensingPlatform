@@ -1,5 +1,5 @@
 # SensingPlatform
-tracking for issues.
+tracking for issues and new features.
 V3.3 Improvement.
 ---------------------------------------------------------------------------------------------------------------------------------------
   1.Change to Prism 5.0 in the framework. see  Prism 5.0 information for the details.
