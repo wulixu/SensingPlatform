@@ -7,4 +7,6 @@ V3.3 Improvement.
     3.Support controls PageNavigate implementations.
     4.Support Global Keyboard/Scanner events for Prism Modules.
     5.Add SignalR Modules.
+    6.CustomerControl support dynamic method invoke,so UserControl will not depend on SensingPlatfom libaries.
+    7.
 -----------------------------------------------------------------------------------------------------------------------------------------
