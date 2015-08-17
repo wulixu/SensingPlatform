@@ -8,5 +8,5 @@ V3.3 Improvement.
     4.Support Global Keyboard/Scanner events for Prism Modules.
     5.Add SignalR Modules.
     6.CustomerControl support dynamic method invoke,so UserControl will not depend on SensingPlatfom libaries.
-    7.
+    7.Writing data string with special char in dataTable data provier will be suppported.
 -----------------------------------------------------------------------------------------------------------------------------------------
