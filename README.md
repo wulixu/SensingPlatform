@@ -9,4 +9,6 @@ V3.3 Improvement.
     5.Add SignalR Modules.
     6.CustomerControl support dynamic method invoke,so UserControl will not depend on SensingPlatfom libaries.
     7.Writing data string with special char in dataTable data provier will be suppported.
+    8.Support WebDataProvider and Cahce Resources.
+    9.TextElement and PopupElement support DataProvider configuration.
 -----------------------------------------------------------------------------------------------------------------------------------------
